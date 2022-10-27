@@ -16,3 +16,6 @@ git diff <file>		//mira las diferencias entre las versiones de los archivos
 git branch 	//Muestra los proyectos
 git branch <nombre-Proyecto>	//crea una nueva version
 git checkout <nombre-Proyecto> 	//manda al Branch nombrado
+
+
+Luis David Tello Justiniani
